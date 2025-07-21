@@ -1,4 +1,4 @@
-# Duck First Repo
+# Duck First Repo.
 
 Ducks are learning how to creat a new repo and how to write markdown.
 
@@ -15,12 +15,12 @@ Ducks are learning how to creat a new repo and how to write markdown.
 - Second Item
 - Third Item
 
-## Link a page
+## Link a page.
 
 [NF Page](https://www.neuefische.de/en/bootcamp/data-science-and-ai)
 
 
-## Image
+## Image.
 
 ### From external source.
 
@@ -36,3 +36,9 @@ Ducks are learning how to creat a new repo and how to write markdown.
 ### Inline code.
 
 I want to know if for you `i=2` at the end 
+
+### Block code.
+
+```
+let cohortName = "Duck"
+```
