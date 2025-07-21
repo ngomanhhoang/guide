@@ -22,6 +22,11 @@ Ducks are learning how to creat a new repo and how to write markdown.
 
 ## Image
 
-### From external source
+### From external source.
 
 ![Ducks](https://plus.unsplash.com/premium_photo-1670590820850-9e6d6a9a111b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZHVja3xlbnwwfHwwfHx8MA%3D%3D)
+
+
+## From internal source.
+
+![Football](football3.png)
