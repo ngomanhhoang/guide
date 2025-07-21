@@ -30,3 +30,9 @@ Ducks are learning how to creat a new repo and how to write markdown.
 ## From internal source.
 
 ![Football](football3.png)
+
+## Code.
+
+### Inline code.
+
+I want to know if for you `i=2` at the end 
