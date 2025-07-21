@@ -10,8 +10,11 @@ Ducks are learning how to creat a new repo and how to write markdown.
 2. Second Item
 3. Third Item
 
-
 ### Unorder List.
 - First Item
 - Second Item
 - Third Item
+
+## Link a page
+
+[NF Page](https://www.neuefische.de/en/bootcamp/data-science-and-ai)
